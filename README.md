@@ -1,6 +1,6 @@
-# Hi, my name is Nikita
+# Hi, my name is Nikita :wave:
 
-I'm currently studying at the Polar State University
+I'm currently studying at the Polar State University :books:
 
 Programming languages I'm learning:
 
